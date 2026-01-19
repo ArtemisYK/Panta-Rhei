@@ -136,3 +136,11 @@ Entries:
       message: Ported N14 furniture for mapping
   id: 17
   time: '2026-01-19T00:27:28.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Enable salvage shuttle to spawn on round start.
+    - type: Add
+      message: Updated the pathfinder to use directional fans instead of tiny fans.
+  id: 18
+  time: '2026-01-19T00:29:14.0000000+00:00'
