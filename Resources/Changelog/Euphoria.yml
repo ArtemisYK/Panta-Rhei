@@ -179,3 +179,11 @@ Entries:
         bugfixes and improvements.
   id: 23
   time: '2026-01-22T01:34:38.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Ported the prize counter and a bunch of plushies. You can now find a
+        soft friend (or foe) in maint lockers.
+  id: 24
+  time: '2026-01-22T02:52:08.0000000+00:00'
