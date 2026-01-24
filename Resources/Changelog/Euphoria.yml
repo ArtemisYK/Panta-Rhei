@@ -207,3 +207,15 @@ Entries:
       message: Ice cream and ice cream recipes.
   id: 26
   time: '2026-01-24T01:14:41.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Add
+      message: Freelancer role
+    - type: Add
+      message: Freelancer faction
+    - type: Add
+      message: Freelancer vendor
+    - type: Add
+      message: Freelancer PDA and ID
+  id: 27
+  time: '2026-01-24T07:45:07.0000000+00:00'
