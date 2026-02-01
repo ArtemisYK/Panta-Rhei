@@ -17,6 +17,7 @@ namespace Content.IntegrationTests.Tests._DV;
 /// <summary>
 /// Checks that every mapped entity with <see cref="MappingCategoriesComponent"/> is allowed to be mapped.
 /// </summary>
+[Explicit] // Floofstation - don't test mapping categories unless asked to.
 public sealed class MappingCategoryTest
 {
     private const string MapsPath = "/Maps";
