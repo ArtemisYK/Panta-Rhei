@@ -268,3 +268,11 @@ Entries:
       message: Toy markings
   id: 33
   time: '2026-01-31T09:51:00.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: >-
+        Brought character height restrictions and generation in-line with with
+        that of Floofstation.
+  id: 34
+  time: '2026-02-03T07:00:02.0000000+00:00'
