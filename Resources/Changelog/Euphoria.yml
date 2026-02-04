@@ -276,3 +276,17 @@ Entries:
         that of Floofstation.
   id: 34
   time: '2026-02-03T07:00:02.0000000+00:00'
+- author: JFerrix
+  changes:
+    - type: Add
+      message: Added abstract Taur species prototype
+    - type: Add
+      message: Arachne species
+    - type: Add
+      message: >-
+        Added markings for arachne lower body and connector part (required due
+        to sprites being wonky)
+    - type: Fix
+      message: Fixed shadowkin status effect errors and other mismatching components
+  id: 35
+  time: '2026-02-04T09:00:13.0000000+00:00'
