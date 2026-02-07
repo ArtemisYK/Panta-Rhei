@@ -322,3 +322,18 @@ Entries:
       message: Added clothes from floof
   id: 39
   time: '2026-02-07T04:41:21.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: Fixed layering of vulpkanin tails.
+    - type: Fix
+      message: >-
+        Fixed certain markings failing to preserve their coloring when imported
+        from Floofstation.
+    - type: Fix
+      message: >-
+        Added a humanoid profile migration system. Humanoid profiles explicitly
+        imported via the character editor GUI should now preserve their heights
+        and traits (at least those that have already been implemented).
+  id: 40
+  time: '2026-02-07T04:48:46.0000000+00:00'
